@@ -1,4 +1,4 @@
-# Bachelorthesis 
+# F. Heisinger Bachelorthesis 
 Yo, here is all the stuff for my bachelor thesis, all the data and code. If you don't like my style of programming, well sucks to be you then.
 
 I will give a short explanation about the stuff in the respected folders. The rest is up to you.
